@@ -2,7 +2,7 @@
 
 **Project:** CRM  
 **Компонент/Модуль:** Контур (CV) → Распознавание паспорта (модалка)  
-**Экран/URL/Маршрут:** https://crm-test.anflat.ru/tools/kontur-check
+**Экран/URL/Маршрут:** https://crm-test.ru
 **Reporter:** Юлия  
 **Окружение:** **test**  
 **Сборка/Версия:** **v.689ce285**  
