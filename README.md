@@ -1,4 +1,4 @@
-# Portfolio_QA — Портфолио ручного тестировщика (QA)
+# Portfolio_QA
 
 Коротко: это репозиторий с **QA-артефактами** (баги, чек-листы, тест-кейсы) и **витриной из кейсов**, где есть краткая история: *что проверила, что нашла и какой результат*.
 
@@ -84,4 +84,5 @@ Portfolio_QA/
 - Имя: Юлия — QA Engineer (Manual)
 - Email: `j.soloveva87@yandex.ru`
 - Telegram: https://t.me/july_nightingale
+
 
